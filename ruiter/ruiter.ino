@@ -7,11 +7,8 @@
 #define RELAISPIN1 00
 #define RELAISPIN2 02
 
-// const char* ssid     = "SmitsSmit";
-// const char* password = "ditisdewpakey";
-
 const char* ssid     = "RuiterWiFi";
-const char* password = "desleutel";
+const char* password = "";
 
 unsigned long begin;
 

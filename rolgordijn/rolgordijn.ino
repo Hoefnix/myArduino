@@ -8,7 +8,7 @@
 #define AANUIT 12
 
 const char* ssid     = "SmitsSmit";
-const char* password = "ditisdewpakey";
+const char* password = "";
 
 int positie; // 0 is volledig opgerold, 100 is volledig uitgerold
 

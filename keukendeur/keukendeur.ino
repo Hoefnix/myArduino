@@ -11,7 +11,7 @@
 #define LEDPIN  14
 
 const char* ssid     = "SmitsSmit";
-const char* password = "ditisdewpakey";
+const char* password = "";
 
 ESP8266WebServer server(80);
 

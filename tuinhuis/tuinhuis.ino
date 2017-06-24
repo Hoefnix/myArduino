@@ -15,7 +15,7 @@ OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature DS18B20(&oneWire);
 
 const char* ssid     = "SmitsSmit";
-const char* password = "ditisdewpakey";
+const char* password = "";
 IPAddress ip(192, 168, 178, 111);
 
 const int   LEDPIN = 14;

@@ -3,7 +3,7 @@
 #include <math.h>
 
 const char* ssid      = "SmitsSmit";
-const char* password  = "ditisdewpakey";
+const char* password  = "";
 
 unsigned int port = 1209;
 
