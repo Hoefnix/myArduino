@@ -14,7 +14,7 @@
 #define RELAISPIN4 15
 
 const char* ssid     = "SmitsSmit";
-const char* password = "ditisdewpakey";
+const char* password = "";
 
 const int   LEDPIN = 14;
 unsigned long begin;

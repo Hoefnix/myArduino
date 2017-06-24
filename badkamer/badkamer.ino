@@ -10,7 +10,7 @@
 #define DHTPIN  2
 
 const char* ssid     = "Smits.Smit";
-const char* password = "ditisdewpakey";
+const char* password = "";
 
 const char* host = "api.thingspeak.com";
 const char* thingspeak_key = "0Y0TM8Y14DTM54P1";
